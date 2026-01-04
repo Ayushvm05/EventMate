@@ -48,3 +48,10 @@
 * Java Development Kit (JDK 17+)
 * MySQL Server
 * Maven
+
+---
+
+📬 Contact
+Ayush Vashistha Mishra
+* Role: Full Stack Developer
+* Project Type: Infosys Springboard Internship
